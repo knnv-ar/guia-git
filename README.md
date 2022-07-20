@@ -24,4 +24,8 @@ From the command line, run `git config --global core.editor "code --wait"`
 
 Now you can run `git config --global -e` and use VS Code as editor for configuring Git
 
+# Control de versiones en Vs Code
+
+https://code.visualstudio.com/docs/introvideos/versioncontrol
+
 ## Machete (cheet sheet)
