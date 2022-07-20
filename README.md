@@ -14,7 +14,7 @@ https://code.visualstudio.com/docs/editor/versioncontrol#_vs-code-as-git-editor
 
 Here are the steps to do so:
 
-Make sure you can run code `--help` from the command line and you get help.
+Make sure you can run `code --help` from the command line and you get help.
 
 if you do not see help, please follow these steps:
 
