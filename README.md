@@ -1,7 +1,5 @@
 # Guía rápida de Git / GitHub
 
----
-
 Realizada por Raúl Federico Lacabanne (aka: knnv-ar) en estrecha relación a los documentos de la referencia. Fecha: 2022/07/20
 
 ## Instalación de git
@@ -22,7 +20,7 @@ if you do not see help, please follow these steps:
 * Windows: Make sure you selected **Add to PATH** during the installation.
 * Linux: Make sure you installed Code via our new .deb or .rpm packages.
 
-From the command line, run git `config --global core.editor "code --wait"`
+From the command line, run `git config --global core.editor "code --wait"`
 
 Now you can run `git config --global -e` and use VS Code as editor for configuring Git
 
