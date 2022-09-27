@@ -20,3 +20,8 @@
 3. Vincular el proyecto actual (en la carpeta que esté parado) con su repositorio en GitHub: `git remote add origin https://github.com/knnv-ar/prueba-node.git`
 4. Para verificar que la conexión se realizó de forma exitosa: `git remote -v`
 
+## Documentación
+
+https://learngitbranching.js.org/?locale=es_ES
+
+https://gitexplorer.com/
